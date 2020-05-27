@@ -1,3 +1,4 @@
+# Extracting data from JSON
 import json
 import urllib.request, urllib.parse, urllib.error
 
