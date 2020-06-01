@@ -29,7 +29,7 @@ elif pe >= 0.8 :
     
 # Exercise 4.6
 def computepay(a,b):
-    '''Computes the salary and accounts for overtime pay'''
+    '''Computes the hourly pay and accounts for overtime.'''
     if a>40 :
         return (b*40) + ((1.5*b)*(a-40))
     else :
